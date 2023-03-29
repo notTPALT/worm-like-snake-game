@@ -1,6 +1,6 @@
 package snake;
 
-// @author Phú, Chiến, fjkasdhshjkhsdghj
+// @author Phú, Chiến, test, test more
 
 import java.awt.Color;
 import java.awt.GridLayout;
